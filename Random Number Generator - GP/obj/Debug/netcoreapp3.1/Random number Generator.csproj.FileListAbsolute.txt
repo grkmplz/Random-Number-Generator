@@ -1,0 +1,14 @@
+C:\Users\gorke\Desktop\RandomNumberGenerators-master\bin\Debug\netcoreapp3.1\Random number Generator.exe
+C:\Users\gorke\Desktop\RandomNumberGenerators-master\bin\Debug\netcoreapp3.1\Random number Generator.deps.json
+C:\Users\gorke\Desktop\RandomNumberGenerators-master\bin\Debug\netcoreapp3.1\Random number Generator.runtimeconfig.json
+C:\Users\gorke\Desktop\RandomNumberGenerators-master\bin\Debug\netcoreapp3.1\Random number Generator.runtimeconfig.dev.json
+C:\Users\gorke\Desktop\RandomNumberGenerators-master\bin\Debug\netcoreapp3.1\Random number Generator.dll
+C:\Users\gorke\Desktop\RandomNumberGenerators-master\bin\Debug\netcoreapp3.1\Random number Generator.pdb
+C:\Users\gorke\Desktop\RandomNumberGenerators-master\obj\Debug\netcoreapp3.1\Random number Generator.csproj.AssemblyReference.cache
+C:\Users\gorke\Desktop\RandomNumberGenerators-master\obj\Debug\netcoreapp3.1\Random number Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorke\Desktop\RandomNumberGenerators-master\obj\Debug\netcoreapp3.1\Random number Generator.AssemblyInfoInputs.cache
+C:\Users\gorke\Desktop\RandomNumberGenerators-master\obj\Debug\netcoreapp3.1\Random number Generator.AssemblyInfo.cs
+C:\Users\gorke\Desktop\RandomNumberGenerators-master\obj\Debug\netcoreapp3.1\Random number Generator.csproj.CoreCompileInputs.cache
+C:\Users\gorke\Desktop\RandomNumberGenerators-master\obj\Debug\netcoreapp3.1\Random number Generator.dll
+C:\Users\gorke\Desktop\RandomNumberGenerators-master\obj\Debug\netcoreapp3.1\Random number Generator.pdb
+C:\Users\gorke\Desktop\RandomNumberGenerators-master\obj\Debug\netcoreapp3.1\Random number Generator.genruntimeconfig.cache
